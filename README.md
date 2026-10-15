@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Antonio! 👋
 
-<!--
-**antmig05/antmig05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. in Computer Engineering** @ **University of Pisa (UniPi)**  
+🏎️ **Driverless Team Member** @ **E-Team Squadra Corse** (Formula SAE / Formula Student Team of the University of Pisa)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔧 Passionate about software engineering, AI systems, and motorsport technology.
+- 🏁 Currently contributing to the development of a driverless car with **E-Team Squadra Corse**.
+- 📫 Reach me at: **antoniomignogna014@gmail.com(mailto:antoniomignogna014@gmail.com)** 
+
+---
+
+### 🛠️ Tech Stack & Languages
+
+#### Core & Systems Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Object-Oriented & Enterprise
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Web Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME_GITHUB&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
