@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🔧 Passionate about software engineering, AI systems, and motorsport technology.
 - 🏁 Currently contributing to the development of a driverless car with **E-Team Squadra Corse**.
-- 📫 Reach me at: **antoniomignogna014@gmail.com(mailto:antoniomignogna014@gmail.com)** 
+- 📫 Reach me at: **antoniomignogna014@gmail.com** 
 
 ---
 
