@@ -9,7 +9,6 @@
   - 🔧 Passionate about software engineering, robotics, computer vision, and motorsport technology.
   - 🏁 Currently working on **perception & sensor fusion** (Camera + LiDAR) for the driverless car at **E-Team Squadra Corse** using **ROS 2**, **C++**,
   **OpenCV**, and **YOLO / PyTorch**.
-  - 📱 Also designing **Sketchy**, a cross-platform stylus note-taking app in **Flutter**.
   - 📫 Reach me at: **antoniomignogna014@gmail.com**
 
   ---
@@ -31,8 +30,6 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
   #### Web & Databases
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
